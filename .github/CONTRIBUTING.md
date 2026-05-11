@@ -1,8 +1,10 @@
-# Introduction
+# Contributing
+
+## Introduction
 
 Thank you for your interest in contributing to our project! We welcome contributions from the community and appreciate your efforts to help improve our codebase. This document provides guidelines and instructions for contributing to our project.
 
-## Installation
+### Installation
 
 To set up the development environment, please follow these steps:
 
@@ -20,7 +22,7 @@ To set up the development environment, please follow these steps:
      uv run pre-commit install
     ```
 
-# Guidelines
+## Guidelines
 
 1. When you whish to contribute, please create a new branch for your changes.
 2. Make your changes and commit them with clear and descriptive commit messages.
